@@ -125,7 +125,7 @@ Since we're interested in conditionally adding CSS as the screen increases in wi
 
 We want out site to look like this:
 
-<img src="https://i.imgur.com/rRkedBV.png" width="200px" height="auto">
+<img src="https://i.imgur.com/rRkedBV.png" width="800px" height="auto">
 
 
 Note that we only add CSS declarations for the properties we want to change - there's no reason to repeat any of the CSS above the media query.
@@ -140,7 +140,7 @@ Adding another media query for another breakpoint at `(min-width: 1024px)`, a co
 
 We want out site to look like this:
 
-<img src="https://i.imgur.com/uVSRQis.png" width="300px">
+<img src="https://i.imgur.com/uVSRQis.png" width="800px">
 
 
 Next up is a lab that will give you some practice working with **Media Queries**.

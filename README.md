@@ -123,7 +123,7 @@ Since we're interested in conditionally adding CSS as the screen increases in wi
 }
 ```
 
-We want out site to look like this:
+We want our site to look like this:
 
 <img src="https://i.imgur.com/rRkedBV.png" width="800px" height="auto">
 
@@ -138,7 +138,7 @@ There's a link in the references section you can use to start to learn more abou
 
 Adding another media query for another breakpoint at `(min-width: 1024px)`, a common breakpoint width for desktop displays.
 
-We want out site to look like this:
+We want our site to look like this:
 
 <img src="https://i.imgur.com/uVSRQis.png" width="800px">
 

@@ -96,7 +96,7 @@ Much better!  Be sure to always have `<meta name="viewport" ...>` in every web a
 
 ## Setup
 
-Use the starter code in `responsive_design`
+Use the starter code in `student_examples`
 
 
 ## Using Media Queries to Apply Different CSS Rules to a Page
